@@ -1,16 +1,17 @@
-# The Art of Prompt Engineering
+# The Art of Prompt Engineering 🎨🖼️🎭
+
 #### Author : Cognitive Class AI
 
-### Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Build a Chatbot to Analyze PDF Documents Using LLM from CognitiveClass.ai
+### Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Build a Chatbot to Analyze PDF Documents Using LLM from CognitiveClass.ai ❤️🌹
 
-##### Mentee Info
+##### Mentee Info 🔍
 
-##### Name : Noneng Ismaryanti
+##### Name : Noneng Ismaryanti 🌷💫
 
-##### Program : IBM Advance AI 
+##### Program : IBM Advance AI 🤖🤖
 
-##### Tech Stack:
-- #### Python
+##### 💻 Tech Stack:
+- #### Python 🐍
 - #### HTML
 - #### CSS
 - #### JavaScript
